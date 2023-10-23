@@ -1,6 +1,5 @@
 # **Extracting and Visualizing Financial Data**
 
-# Ahmed Unshur
 
 In this project, we will extract financial data (historical share price and quarterly revenue reportings) from various sources using Python libraries and webscraping on popular stocks, specifically *Tesla* and *GameStop*. After collecting this data, we will visualize it in a dashboard to identify patterns or trends. 
 
